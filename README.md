@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/sanju06/harujah/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harujah</h1>
 <h3 align="center">A passionate data science enthusiast from SriLanka</h3>
 
